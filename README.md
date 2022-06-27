@@ -1,5 +1,6 @@
 # vanilla-js-memory-card-game
 
+### View: [Click](https://vanilla-js-memory-card-game.netlify.app/)
 
 ## Table of Contents
 
